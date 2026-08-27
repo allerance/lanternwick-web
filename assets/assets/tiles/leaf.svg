@@ -2,8 +2,9 @@
   <rect width="90" height="120" rx="12" fill="#1C1917"/>
   <rect x="4" y="3" width="76" height="105" rx="9" fill="#FAF7F2"/>
 
-  <g transform="translate(42 56) rotate(20)">
-    <ellipse cx="0" cy="2" rx="15" ry="26" fill="#3F6B3A"/>
-    <line x1="0" y1="-22" x2="0" y2="24" stroke="#1C1917" stroke-width="2.2" stroke-linecap="round"/>
+  <g transform="translate(42 60) rotate(28)">
+    <ellipse cx="0" cy="0" rx="19" ry="31" fill="#1C1917"/>
+    <ellipse cx="0" cy="0" rx="16" ry="28" fill="#3F6B3A"/>
+    <line x1="0" y1="-18" x2="0" y2="18" stroke="#1C1917" stroke-width="3.2" stroke-linecap="round"/>
   </g>
 </svg>
